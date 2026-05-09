@@ -1,1 +1,7 @@
 *.ini
+demo-*
+slide-*
+*.png
+*.docx
+*.pyc
+anonymous_route_signals.json
